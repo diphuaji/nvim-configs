@@ -2,3 +2,4 @@
 require("config.lazy")
 require("neoconf")
 require 'lspconfig'.pylsp.setup {}
+require("config.metals")
